@@ -1,11 +1,10 @@
--👋 Hi, I’m Ajay Kumar Ukey
+# 👋 Hi, I’m Ajay Kumar Ukey
 
 **🔍 Data Analyst | 📊 MySQL | 📈 Power BI | 🐍 Advanced Python | 📗 Excel | 📚 Statistics**
-
-  
--📫 Reach me at: ajukumarukey18@gmail.com  
--📞 Contact: +91 7775981943  
--🔗 [LinkedIn Profile](https://www.linkedin.com/in/ajaykumar-ukey-558542202/)
+ 
+📫 Reach me at: ajukumarukey18@gmail.com  
+📞 Contact: +91 7775981943  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/ajaykumar-ukey-558542202/)
 
 ---
 
@@ -62,8 +61,7 @@ Includes Python + PySpark-based data wrangling, analysis, and visualization.
 ---
 
 ## 📌 Interests
-
-- 🧬 **Healthcare Innovation** – Using tech to revolutionize patient care  
+  
 - 📊 **Data Visualization** – Turning raw data into storytelling dashboards  
 
 ---
